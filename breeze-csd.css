@@ -1,0 +1,56 @@
+body > div.titlebar > div > div.titlebar-button-container.mod-right > div.titlebar-button.mod-minimize > svg {
+    display: none;
+}
+
+body > div.titlebar > div > div.titlebar-button-container.mod-right > div.titlebar-button.mod-minimize {
+    padding: 0 10px;
+}
+
+body > div.titlebar > div > div.titlebar-button-container.mod-right > div.titlebar-button.mod-minimize::before {
+    content: '';
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background-image: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMnB4IiBoZWlnaHQ9IjEycHgiIHZpZXdCb3g9IjAgMCAxNiAxNiI+PHBhdGggZmlsbD0iI2ZmZmNmYyIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJtOCAxMC4yMDdsMy44NTQtMy44NTNsLS43MDctLjcwOEw4IDguNzkzTDQuODU0IDUuNjQ2bC0uNzA4LjcwOHoiIGNsaXAtcnVsZT0iZXZlbm9kZCIvPjwvc3ZnPg==');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+body > div.titlebar > div > div.titlebar-button-container.mod-right > div.titlebar-button.mod-maximize {
+    padding: 0 10px;
+}
+
+body > div.titlebar > div > div.titlebar-button-container.mod-right > div.titlebar-button.mod-maximize > svg {
+    display: none;
+}
+
+body > div.titlebar > div > div.titlebar-button-container.mod-right > div.titlebar-button.mod-maximize::before {
+    content: '';
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background-image: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDE2IDE2Ij4KCTxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZiIgZD0iTTQuNSA5LjVMOCA2bDMuNSAzLjUiIHN0cm9rZS13aWR0aD0iMSIgLz4KPC9zdmc+');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+body > div.titlebar > div > div.titlebar-button-container.mod-right > div.titlebar-button.mod-close {
+    padding: 0 10px;
+}
+
+body > div.titlebar > div > div.titlebar-button-container.mod-right > div.titlebar-button.mod-close > svg {
+    display: none;
+}
+
+body > div.titlebar > div > div.titlebar-button-container.mod-right > div.titlebar-button.mod-close::before {
+    content: '';
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background-image: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgdmlld0JveD0iMCAwIDE2IDE2Ij4KCTxwYXRoIGZpbGw9IiNmZmYiIGZpbGwtcnVsZT0iZXZlbm9kZCIgZD0iTTggMWE3IDcgMCAxIDAgMCAxNEE3IDcgMCAwIDAgOCAxbTIuNjQ2IDMuNjQ2TDggNy4yOTNMNS4zNTQgNC42NDZsLS43MDguNzA4TDcuMjkzIDhsLTIuNjQ3IDIuNjQ2bC43MDguNzA4TDggOC43MDdsMi42NDYgMi42NDdsLjcwOC0uNzA3TDguNzA3IDhsMi42NDctMi42NDZ6IiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIC8+Cjwvc3ZnPg==');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
